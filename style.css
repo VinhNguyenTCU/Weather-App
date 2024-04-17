@@ -92,3 +92,16 @@ body{
     font-size: 40px;
 }
 
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    margin-left: 75px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
