@@ -84,11 +84,11 @@ body{
 .col{
     display: flex;
     align-items: center;
+    justify-content: space-around;
     text-align: left;
 }
 
 .humidity, .wind{
     font-size: 40px;
-
 }
 
